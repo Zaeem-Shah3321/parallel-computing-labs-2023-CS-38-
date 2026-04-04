@@ -27,7 +27,7 @@ By completing this lab, we aim to:
 * `hello_mpi.c` – Basic MPI program (rank & size display)
 * `pingpong.c` – Measures communication latency
 * `count_mpi.c` – Parallel counting using MPI
-* `pi_mpi.c` – Parallel estimation of π (optional)
+* `graph.py` – To Make Speed Up Graphs
 
 ---
 
